@@ -2,8 +2,8 @@
 
 Solution to the book [*"A Collection of Data Science Take-Home Challenges"*](https://datamasked.com/)
 
-1. Conversion Rate
-2. Spanish Translation A/B Test
+1. [Conversion Rate](https://github.com/JifuZhao/DS-Take-Home/blob/master/1.%20Conversion%20Rate.ipynb)
+2. [Spanish Translation A/B Test](https://github.com/JifuZhao/DS-Take-Home/blob/master/2.%20Spanish%20Translation%20AB%20Test.ipynb)
 3. Employee Retention
 4. Identifying Fraudulent Activities
 5. Funnel Analysis
