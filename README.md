@@ -5,8 +5,8 @@ Solution to the book [*"A Collection of Data Science Take-Home Challenges"*](htt
 1. [Conversion Rate](https://github.com/JifuZhao/DS-Take-Home/blob/master/01.%20Conversion%20Rate.ipynb)
 2. [Spanish Translation A/B Test](https://github.com/JifuZhao/DS-Take-Home/blob/master/02.%20Spanish%20Translation%20AB%20Test.ipynb)
 3. [Employee Retention](https://github.com/JifuZhao/DS-Take-Home/blob/master/03.%20Employee%20Retention.ipynb)
-4. [Identifying Fraudulent Activities]
-5. [Funnel Analysis]
+4. [Identifying Fraudulent Activities](https://github.com/JifuZhao/DS-Take-Home/blob/master/04.%20Identifying%20Fraudulent%20Activities.ipynb)
+5. [Funnel Analysis](https://github.com/JifuZhao/DS-Take-Home/blob/master/05.%20Funnel%20Analysis.ipynb)
 6. [Pricing Test]
 7. [Marketing Email Champaign]
 8. [Song Challenge]
