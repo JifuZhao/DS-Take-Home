@@ -9,6 +9,7 @@ __pycache__/
 # Files
 data/*
 books/*
+.DS_Store
 
 # Distribution / packaging
 .Python
