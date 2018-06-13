@@ -8,6 +8,7 @@ Solution to the book [*"A Collection of Data Science Take-Home Challenges"*](htt
 4. [Identifying Fraudulent Activities](https://github.com/JifuZhao/DS-Take-Home/blob/master/04.%20Identifying%20Fraudulent%20Activities.ipynb)
 5. [Funnel Analysis](https://github.com/JifuZhao/DS-Take-Home/blob/master/05.%20Funnel%20Analysis.ipynb)
 6. [Pricing Test](https://github.com/JifuZhao/DS-Take-Home/blob/master/06.%20Pricing%20Test.ipynb)
+6. [Pricing Test](06. Pricing Test.ipynb)
 7. [Marketing Email Champaign]
 8. [Song Challenge]
 9. [Clustering Grocery Items]
