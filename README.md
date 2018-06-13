@@ -8,21 +8,20 @@ Solution to the book [*"A Collection of Data Science Take-Home Challenges"*](htt
 4. [Identifying Fraudulent Activities](https://github.com/JifuZhao/DS-Take-Home/blob/master/04.%20Identifying%20Fraudulent%20Activities.ipynb)
 5. [Funnel Analysis](https://github.com/JifuZhao/DS-Take-Home/blob/master/05.%20Funnel%20Analysis.ipynb)
 6. [Pricing Test](https://github.com/JifuZhao/DS-Take-Home/blob/master/06.%20Pricing%20Test.ipynb)
-6. [Pricing Test](06. Pricing Test.ipynb)
-7. [Marketing Email Champaign]
-8. [Song Challenge]
-9. [Clustering Grocery Items]
-10. [Credit Card Transactions]
-11. [User Referral Program]
-12. [Loan Granting]
-13. [Json City Similarities]
-14. [Optimization of Employee Shuttle Stops]
-15. [Diversity in the Workplace]
-16. [URL Parsing Challenge]
-17. [Engagement Test]
-18. [On-Line Video Challenge]
-19. [Subscription Retention Rate]
-20. [Ads Analysis]
+7. [Marketing Email Campaign](https://github.com/JifuZhao/DS-Take-Home/blob/master/07.%20Marketing%20Email%20Campaign.ipynb)
+8. [Song Challenge](https://github.com/JifuZhao/DS-Take-Home/blob/master/08.%20Song%20Challenge.ipynb)
+9. [Clustering Grocery Items](https://github.com/JifuZhao/DS-Take-Home/blob/master/09.%20Clustering%20Grocery%20Items.ipynb)
+10. [Credit Card Transactions](https://github.com/JifuZhao/DS-Take-Home/blob/master/10.%20Credit%20Card%20Transactions.ipynb)
+11. [User Referral Program](https://github.com/JifuZhao/DS-Take-Home/blob/master/11.%20User%20Referral%20Program.ipynb)
+12. [Loan Granting](https://github.com/JifuZhao/DS-Take-Home/blob/master/12.%20Loan%20Granting.ipynb)
+13. [Json City Similarities](https://github.com/JifuZhao/DS-Take-Home/blob/master/13.%20Json%20City%20Similarities.ipynb)
+14. [Optimization of Employee Shuttle Stops](https://github.com/JifuZhao/DS-Take-Home/blob/master/14.%20Optimization%20of%20Employee%20Shuttle%20Stops.ipynb)
+15. [Diversity in the Workplace](https://github.com/JifuZhao/DS-Take-Home/blob/master/15.%20Diversity%20in%20the%20Workplace.ipynb)
+16. [URL Parsing Challenge](https://github.com/JifuZhao/DS-Take-Home/blob/master/16.%20URL%20Parsing%20Challenge.ipynb)
+17. [Engagement Test](https://github.com/JifuZhao/DS-Take-Home/blob/master/17.%20Engagement%20Test.ipynb)
+18. [On-Line Video Challenge](https://github.com/JifuZhao/DS-Take-Home/blob/master/18.%20On-Line%20Video%20Challenge.ipynb)
+19. [Subscription Retention Rate](https://github.com/JifuZhao/DS-Take-Home/blob/master/19.%20Subscription%20Retention%20Rate.ipynb)
+20. [Ads Analysis](https://github.com/JifuZhao/DS-Take-Home/blob/master/20.%20Ads%20Analysis.ipynb)
 
 
 Copyright @ Jifu Zhao 2018
