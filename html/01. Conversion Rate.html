@@ -11726,9 +11726,7 @@ body {
 div#notebook {
   overflow: visible;
   border-top: none;
-}
-
-@media print {
+}@media print {
   div.cell {
     display: block;
     page-break-inside: avoid;
@@ -11749,7 +11747,7 @@ div#notebook {
 
 <!-- Loading mathjax macro -->
 <!-- Load mathjax -->
-    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS_HTML"></script>
     <!-- MathJax configuration -->
     <script type="text/x-mathjax-config">
     MathJax.Hub.Config({
@@ -11773,6 +11771,32 @@ div#notebook {
   <div tabindex="-1" id="notebook" class="border-box-sizing">
     <div class="container" id="notebook-container">
 
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h1 id="Goal">Goal<a class="anchor-link" href="#Goal">&#182;</a></h1><p>Optimizing conversion rate is likely the most common work of a data scientist, and rightfully so.</p>
+<p>The data revolution has a lot to do with the fact that now we are able to collect all sorts of data about people who buy something on our site as well as people who don't. This gives us a tremendous opportunity to understand what's working well (and potentially scale it even further) and what's not working well (and fix it).</p>
+<p>The goal of this challenge is to build a model that predicts conversion rate and, based on the model, come up with ideas to improve revenue.</p>
+<p>This challenge is significantly easier than all others in this collection. There are no dates, no tables to join, no feature engineering required, and the problem is really straightforward. Therefore, it is a great starting point to get familiar with data science take-home challenges.</p>
+
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h1 id="Description">Description<a class="anchor-link" href="#Description">&#182;</a></h1><p>We have data about users who hit our site: whether they converted or not as well as some of their characteristics such as their country, the marketing channel, their age, whether they are repeat users and the number of pages visited during that session (as a proxy for site activity/time spent on site).</p>
+<p>Your project is to:</p>
+<ul>
+<li>Predict conversion rate</li>
+<li>Come up with recommendations for the product team and the marketing team to improve conversion rate</li>
+</ul>
+
+</div>
+</div>
+</div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
 <div class="prompt input_prompt">In&nbsp;[1]:</div>
@@ -11800,8 +11824,7 @@ div#notebook {
 </div>
 
 </div>
-<div class="cell border-box-sizing text_cell rendered">
-<div class="prompt input_prompt">
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
@@ -11827,7 +11850,9 @@ div#notebook {
 
 
 <div class="output_area">
+
 <div class="prompt output_prompt">Out[2]:</div>
+
 
 
 <div class="output_html rendered_html output_subarea output_execute_result">
@@ -11931,7 +11956,9 @@ div#notebook {
 
 
 <div class="output_area">
+
 <div class="prompt"></div>
+
 
 <div class="output_subarea output_stream output_stdout output_text">
 <pre>&lt;class &#39;pandas.core.frame.DataFrame&#39;&gt;
@@ -11970,7 +11997,9 @@ memory usage: 14.5+ MB
 
 
 <div class="output_area">
+
 <div class="prompt output_prompt">Out[4]:</div>
+
 
 
 <div class="output_html rendered_html output_subarea output_execute_result">
@@ -12085,7 +12114,9 @@ memory usage: 14.5+ MB
 
 
 <div class="output_area">
+
 <div class="prompt"></div>
+
 
 <div class="output_subarea output_stream output_stdout output_text">
 <pre>country                  4	 [&#39;China&#39;, &#39;Germany&#39;, &#39;UK&#39;, &#39;US&#39;]
@@ -12102,8 +12133,7 @@ converted                2	 [0, 1]
 </div>
 
 </div>
-<div class="cell border-box-sizing text_cell rendered">
-<div class="prompt input_prompt">
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
@@ -12129,7 +12159,9 @@ converted                2	 [0, 1]
 
 
 <div class="output_area">
+
 <div class="prompt output_prompt">Out[6]:</div>
+
 
 
 <div class="output_html rendered_html output_subarea output_execute_result">
@@ -12189,8 +12221,7 @@ converted                2	 [0, 1]
 </div>
 
 </div>
-<div class="cell border-box-sizing text_cell rendered">
-<div class="prompt input_prompt">
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
@@ -12212,8 +12243,7 @@ converted                2	 [0, 1]
 </div>
 
 </div>
-<div class="cell border-box-sizing text_cell rendered">
-<div class="prompt input_prompt">
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
@@ -12248,7 +12278,9 @@ converted                2	 [0, 1]
 
 
 <div class="output_area">
+
 <div class="prompt"></div>
+
 
 
 
@@ -12604,7 +12636,9 @@ AElFTkSuQmCC
 
 
 <div class="output_area">
+
 <div class="prompt"></div>
+
 
 
 
@@ -12937,7 +12971,9 @@ BIQAAAAAMDABIQAAAFDLtngAAAAJSURBVAAM7P8AycgAow19V5UAAAAASUVORK5CYII=
 
 
 <div class="output_area">
+
 <div class="prompt"></div>
+
 
 
 
@@ -13297,7 +13333,9 @@ AgAAAMCK/T9xaXbwXF6dHwAAAABJRU5ErkJggg==
 
 
 <div class="output_area">
+
 <div class="prompt"></div>
+
 
 
 
@@ -14138,7 +14176,9 @@ iIgElJINIiIiIiIiIhJQSjaIiIiIiIiISED9f3V0BfFCraAsAAAAAElFTkSuQmCC
 
 
 <div class="output_area">
+
 <div class="prompt"></div>
+
 
 
 
@@ -14959,8 +14999,7 @@ pZRSSqkhpcEGpZRSSimllFJKDSkNNiillFJKKaWUUmpI/X+doDM0z2sP8wAAAABJRU5ErkJggg==
 </div>
 
 </div>
-<div class="cell border-box-sizing text_cell rendered">
-<div class="prompt input_prompt">
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
@@ -14987,7 +15026,9 @@ pZRSSqkhpcEGpZRSSimllFJKDSkNNiillFJKKaWUUmpI/X+doDM0z2sP8wAAAABJRU5ErkJggg==
 
 
 <div class="output_area">
+
 <div class="prompt"></div>
+
 
 <div class="output_subarea output_stream output_stdout output_text">
 <pre>Checking whether there is an H2O instance running at http://localhost:54321..... not found.
@@ -15004,7 +15045,9 @@ Connecting to H2O server at http://127.0.0.1:54321... successful.
 </div>
 
 <div class="output_area">
+
 <div class="prompt"></div>
+
 
 
 <div class="output_html rendered_html output_subarea ">
@@ -15071,7 +15114,9 @@ Connecting to H2O server at http://127.0.0.1:54321... successful.
 
 
 <div class="output_area">
+
 <div class="prompt"></div>
+
 
 <div class="output_subarea output_stream output_stdout output_text">
 <pre>Parse progress: |█████████████████████████████████████████████████████████| 100%
@@ -15080,7 +15125,9 @@ Connecting to H2O server at http://127.0.0.1:54321... successful.
 </div>
 
 <div class="output_area">
+
 <div class="prompt"></div>
+
 
 
 <div class="output_html rendered_html output_subarea ">
@@ -15152,7 +15199,9 @@ Connecting to H2O server at http://127.0.0.1:54321... successful.
 
 
 <div class="output_area">
+
 <div class="prompt"></div>
+
 
 <div class="output_subarea output_stream output_stdout output_text">
 <pre>drf Model Build progress: |███████████████████████████████████████████████| 100%
@@ -15181,7 +15230,9 @@ Connecting to H2O server at http://127.0.0.1:54321... successful.
 
 
 <div class="output_area">
+
 <div class="prompt"></div>
+
 
 
 
@@ -15426,7 +15477,9 @@ AQAAOicYAgAAdE4wBAAA6JxgCAAA0Ln/HyAeiRVQV8ZWAAAAAElFTkSuQmCC
 
 
 <div class="output_area">
+
 <div class="prompt"></div>
+
 
 
 
@@ -15622,7 +15675,9 @@ fjHJKVV1QmYruM/o7v9bVS9IcnrNXmHh2iS/kOQTN+4pAmtJffOnNgBw01XVk5Ns6O5nrvYswO7D
 
 
 <div class="output_area">
+
 <div class="prompt"></div>
+
 
 <div class="output_subarea output_stream output_stdout output_text">
 <pre>drf prediction progress: |████████████████████████████████████████████████| 100%
@@ -15653,7 +15708,9 @@ drf prediction progress: |██████████████████
 
 
 <div class="output_area">
+
 <div class="prompt"></div>
+
 
 <div class="output_subarea output_stream output_stdout output_text">
 <pre>             precision    recall  f1-score   support
@@ -15694,7 +15751,9 @@ avg / total       0.98      0.98      0.98     79050
 
 
 <div class="output_area">
+
 <div class="prompt"></div>
+
 
 
 
@@ -15998,7 +16057,9 @@ iSAFvIiISAT9fyA12pFmTZhlAAAAAElFTkSuQmCC
 
 
 <div class="output_area">
+
 <div class="prompt"></div>
+
 
 <div class="output_subarea output_stream output_stdout output_text">
 <pre>PartialDependencePlot progress: |█████████████████████████████████████████| 100%
@@ -16007,7 +16068,9 @@ iSAFvIiISAT9fyA12pFmTZhlAAAAAElFTkSuQmCC
 </div>
 
 <div class="output_area">
+
 <div class="prompt"></div>
+
 
 
 
@@ -17293,7 +17356,9 @@ cs4555wLeGDknHPOORfwwMg555xzLvD/s3jBHpub/N8AAAAASUVORK5CYII=
 
 
 <div class="output_area">
+
 <div class="prompt"></div>
+
 
 <div class="output_subarea output_stream output_stdout output_text">
 <pre>H2O session _sid_8322 closed.
@@ -17301,19 +17366,6 @@ cs4555wLeGDknHPOORfwwMg555xzLvD/s3jBHpub/N8AAAAASUVORK5CYII=
 </div>
 </div>
 
-</div>
-</div>
-
-</div>
-<div class="cell border-box-sizing code_cell rendered">
-<div class="input">
-<div class="prompt input_prompt">In&nbsp;[&nbsp;]:</div>
-<div class="inner_cell">
-    <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span> 
-</pre></div>
-
-</div>
 </div>
 </div>
 
