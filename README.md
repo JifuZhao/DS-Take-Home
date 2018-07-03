@@ -23,5 +23,6 @@ Solution to the book [*"A Collection of Data Science Take-Home Challenges"*](htt
 19. [Subscription Retention Rate](https://github.com/JifuZhao/DS-Take-Home/blob/master/19.%20Subscription%20Retention%20Rate.ipynb)
 20. [Ads Analysis](https://github.com/JifuZhao/DS-Take-Home/blob/master/20.%20Ads%20Analysis.ipynb)
 
+Other useful resource: [https://github.com/stasi009/TakeHomeDataChallenges](https://github.com/stasi009/TakeHomeDataChallenges)
 
 Copyright @ Jifu Zhao 2018
