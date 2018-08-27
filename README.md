@@ -2,6 +2,9 @@
 
 Solution to the book [*"A Collection of Data Science Take-Home Challenges"*](https://datamasked.com/)
 
+## Note:
+This repository is only for self-learning purpose. I am really happy if my solution is helpful to you. However, I won't provide the original book or the data files. If you want to do the exercise, you can go to [https://datamasked.com/](https://datamasked.com/) to purchase the book. Please respect the author of the original work.
+
 1. [Conversion Rate](https://github.com/JifuZhao/DS-Take-Home/blob/master/01.%20Conversion%20Rate.ipynb)
 2. [Spanish Translation A/B Test](https://github.com/JifuZhao/DS-Take-Home/blob/master/02.%20Spanish%20Translation%20AB%20Test.ipynb)
 3. [Employee Retention](https://github.com/JifuZhao/DS-Take-Home/blob/master/03.%20Employee%20Retention.ipynb)
