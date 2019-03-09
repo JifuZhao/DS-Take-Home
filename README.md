@@ -3,7 +3,9 @@
 Solution to the book [*"A Collection of Data Science Take-Home Challenges"*](https://datamasked.com/).
 
 ## Note:
-This repository is only for self-learning purpose. I am really happy if my solution is helpful to you. **However, I won't provide the original book or the data files**. If you want to do the exercise, you can go to [https://datamasked.com/](https://datamasked.com/) to purchase the book. Please respect the author of the original work.
+** Please don't contact me for the dataset. **
+
+This repository is only for self-learning purpose. I am really happy if my solution is helpful to you. However, I won't provide the original book or the data files. If you want to do the exercise, you can go to [https://datamasked.com/](https://datamasked.com/) to purchase the book. Please respect the author of the original work.
 
 1. [Conversion Rate](https://github.com/JifuZhao/DS-Take-Home/blob/master/01.%20Conversion%20Rate.ipynb)
 2. [Spanish Translation A/B Test](https://github.com/JifuZhao/DS-Take-Home/blob/master/02.%20Spanish%20Translation%20AB%20Test.ipynb)
@@ -27,7 +29,5 @@ This repository is only for self-learning purpose. I am really happy if my solut
 20. [Ads Analysis](https://github.com/JifuZhao/DS-Take-Home/blob/master/20.%20Ads%20Analysis.ipynb)
 
 Other useful resource: [https://github.com/stasi009/TakeHomeDataChallenges](https://github.com/stasi009/TakeHomeDataChallenges)
-
-If you have any questions, you can contact me through email or add me to your network with LinkedIn [https://www.linkedin.com/in/jifuzhao/](https://www.linkedin.com/in/jifuzhao/).
 
 Copyright @ Jifu Zhao 2018
